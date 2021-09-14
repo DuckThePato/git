@@ -1,0 +1,1 @@
+{"fisico":5,"thunder":20,"fireball":15,"area_escorregadia":false,"drenar_forca_vital":10,"resistencia":5,"martelo_do_caos":25}

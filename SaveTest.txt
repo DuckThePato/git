@@ -1,0 +1,1 @@
+{"Items":[{"position":1,"hp":10,"mp":10,"str":10,"res":10,"affect":10.0,"xp":10.0},{"position":2,"hp":9,"mp":9,"str":9,"res":9,"affect":9.0,"xp":9.0},{"position":3,"hp":9,"mp":9,"str":9,"res":9,"affect":9.0,"xp":9.0}]}

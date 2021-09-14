@@ -1,0 +1,34 @@
+{"Items":[{"mob":"zumbi",
+"life":100.0,
+"mp":50.0,
+"lv": 1,
+"attack":[
+"mordida",
+"soco"
+],
+"magics":[
+"Thunder",
+"LifeSteal"
+],
+"res":[
+6
+]
+},
+
+{"mob":"zumbi",
+"life":100.0,
+"mp":50.0,
+"lv": 1,
+"attack":[
+"mordida",
+"soco"
+],
+"magics":[
+"Thunder",
+"LifeSteal"
+],
+"res":[
+6
+]
+}
+]}

@@ -1,0 +1,10 @@
+{"Items":[{
+"nameItem":"(S)Potion"
+},
+{
+"nameItem":"(B)Potion"
+},
+{
+"nameItem":"(S)Elixir"
+}
+]}
